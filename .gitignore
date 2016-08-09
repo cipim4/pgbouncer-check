@@ -4,3 +4,4 @@ project/plugins/project/build.properties
 *.iml
 *.ipr
 *.iws
+target/
